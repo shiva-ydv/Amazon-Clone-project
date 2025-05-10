@@ -3,7 +3,7 @@
 
 A responsive front-end clone of the Amazon e-commerce website built with HTML and CSS.
 
-Amazone Clone Screenshot Image
+## 📸 Screenshots 
 
 ![Amazon Clone Screenshot](https://github.com/shiva-ydv/Amazon-Clone-project/blob/main/Screenshot%202025-05-10%20181747.png) 
 
