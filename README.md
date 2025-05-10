@@ -1,10 +1,9 @@
-# Amazon-Clone-project
 
 # Amazon Clone Website
 
 A responsive front-end clone of the Amazon e-commerce website built with HTML and CSS.
 
-![Amazon Clone Screenshot]() 
+![Amazon Clone Screenshot](https://github.com/shiva-ydv/Amazon-Clone-project/blob/main/Screenshot%202025-05-10%20181747.png) 
 
 
 ## How to View
@@ -15,7 +14,7 @@ The project is deployed using GitHub Pages and can be viewed at:
 ## Features
 
 - **Responsive Navbar**: With logo, search bar, and navigation elements
-- **Hero Section**: Promotional banner with call-to-action
+- **Hero Section**: Promotional banner 
 - **Product Showcase**: Grid layout of product categories
 - **Footer**: Multi-panel footer with links and company information
 - **Interactive Elements**: Hover effects on buttons and links
@@ -47,5 +46,5 @@ amazon-clone/
 
 ## Author
 
-[Your Name]  
-[Your Contact Information if desired]
+[Shiva yadav]  
+[shivayadav78931@gmail.com]
