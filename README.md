@@ -7,8 +7,6 @@ A responsive front-end clone of the Amazon e-commerce website built with HTML an
 
 
 ## How to View
-
-The project is deployed using GitHub Pages and can be viewed at:  
 [Live Demo](https://amazon-clone-project-full.netlify.app/)<!-- Add a screenshot if possible -->
 
 ## Features
